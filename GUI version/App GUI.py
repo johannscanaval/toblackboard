@@ -1,14 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
-
 
 from appJar import gui
 import nearpod_app as api
 
 app = gui()
-app.addLabel("title", "Hola, bienvenido")
+app.addLabel("title", "Hola")
 app.setLabelBg("title", "red")
 app.addLabelEntry("Nombre de la columna")
 def press(button):
@@ -24,7 +22,7 @@ app.addButtons(["Ingresar archivos", "Salir"], press)
 app.go()
 
 
-# In[ ]:
+
 
 
 
