@@ -1,0 +1,11 @@
+Recuerda que la forma como tienen que estar los nombres en Forms es: "NombresSicua ApellidosSicua" de modo que exista un espacio entre nombres y apellidos, 
+tiene que ser el/los mismos nombres y apellidos que en Sicua+.
+Hola, para ejecutar este programa (con su interfaz gráfica) necesitas tener Python 3 en adelante instalado en tu sistema operativo (con su respectiva salida gráfica - este comentario aplica especialmente para S.O. Linux).
+Python debe tener instaladas las siguientes librerías:
+ - pandas
+ - appJar
+ - openpyxl
+
+En la misma carpeta deben encontrarse el script App GUI.py y nearpod_app.py. Todo se ejecuta simplemente abriendo el archivo App GUI.py :). 
+
+Esperamos que esto te ahorre tiempo :D.
