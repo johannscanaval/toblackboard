@@ -1,5 +1,5 @@
 Recuerda que la forma como tienen que estar los nombres en Forms es: "NombresSicua ApellidosSicua" de modo que exista un espacio entre nombres y apellidos, 
-tiene que ser el/los mismos nombres y apellidos que en Sicua+.
+tiene que ser el/los mismos nombres y apellidos que en Sicua+. Link planilla https://forms.office.com/Pages/ShareFormPage.aspx?id=fAS9-kj_KkmLu4-Yufucyr6IOwQu8AFMjtO5DUsaOUZUOUpSM0gwRVFDTThFUFFZTDhBUzdKR005Vy4u&sharetoken=uN377g04AymuoftrYaZR 
 Hola, para ejecutar este programa (con su interfaz gráfica) necesitas tener Python 3 en adelante instalado en tu sistema operativo (con su respectiva salida gráfica - este comentario aplica especialmente para S.O. Linux).
 Python debe tener instaladas las siguientes librerías:
  - pandas
