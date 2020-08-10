@@ -6,6 +6,6 @@ Python debe tener instaladas las siguientes librerías:
  - appJar
  - openpyxl
 
-En la misma carpeta deben encontrarse el script App GUI.py y nearpod_app.py. Todo se ejecuta simplemente abriendo el archivo App GUI.py :). 
+En la misma carpeta deben encontrarse el script App GUI.py y forms_app.py. Todo se ejecuta simplemente abriendo el archivo App GUI.py :). 
 
 Esperamos que esto te ahorre tiempo :D.
